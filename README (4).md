@@ -66,4 +66,3 @@ The SVM model consistently outperformed Logistic Regression, especially in detec
 - Clinical validation with medical professionals
 
 ---
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
