@@ -26,18 +26,6 @@ The SVM model (Polynomial kernel) achieved **87.5% accuracy**, outperforming Log
 
 ---
 
-## 📂 Repository Structure
-
-```
-fetal-health-prediction/
-│
-├── fetal_health_prediction.py                       # Full ML pipeline (Python code)
-├── PREDICTIVE_MODELLING_OF_FETAL_HEALTH_FINAL.docx  # Full academic project report
-├── fetal_health.csv                                 # CTG dataset
-├── requirements.txt                                 # Python dependencies
-└── README.md
-```
-
 ---
 
 ## 🧠 Methodology Summary
@@ -64,31 +52,6 @@ The SVM model consistently outperformed Logistic Regression, especially in detec
 
 ---
 
-## 🚀 Getting Started
-
-### Install dependencies
-```bash
-pip install -r requirements.txt
-```
-
-### `requirements.txt`
-```
-numpy
-pandas
-matplotlib
-seaborn
-scipy
-scikit-learn
-scikitplot
-```
-
-### Run the pipeline
-```bash
-python fetal_health_prediction.py
-```
-
-Ensure `fetal_health.csv` is in the same directory.
-
 ### Dataset source
 [Kaggle – Reproductive & Child Healthcare CTG Dataset](https://www.kaggle.com/datasets/omegasaransh12/reproductivechildhealthcare)
 
@@ -103,16 +66,4 @@ Ensure `fetal_health.csv` is in the same directory.
 - Clinical validation with medical professionals
 
 ---
-
-## 👤 Author
-
-**[Your Name]**
-- 📧 [your.email@example.com]
-- 💼 [LinkedIn Profile URL]
-- 🐙 [GitHub Profile URL]
-
----
-
-## 📄 License
-
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
